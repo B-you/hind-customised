@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "659865038317",
+    "firebase_url": "https://dynamiclink-b9831.firebaseio.com",
+    "project_id": "dynamiclink-b9831",
+    "storage_bucket": "dynamiclink-b9831.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659865038317:android:98b131fc9d3ee33c178be4",
+        "android_client_info": {
+          "package_name": "com.joga.world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659865038317-fteko0gpuhha6cf6716k7e3ovgnm4gmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-JG_GreHbCa0yup-8zJaZzTiRCGTjYBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659865038317-fteko0gpuhha6cf6716k7e3ovgnm4gmo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "659865038317-18c6r89nuon08d6mqsv7mlbblak8hqi9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.joga.world",
+                "app_store_id": "962194608"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
